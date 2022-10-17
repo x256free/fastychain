@@ -1,4 +1,4 @@
-version: 4.0.0
+version: 1.0.0
 
 defaults: &defaults
   working_directory: /home/circleci/go/src/github.com/x256free/fastychain
