@@ -26,7 +26,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // ipcListen will create a Unix socket on the given endpoint.

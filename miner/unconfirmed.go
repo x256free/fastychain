@@ -20,9 +20,9 @@ import (
 	"container/ring"
 	"sync"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // chainRetriever is used by the unconfirmed block set to verify whether a previously

@@ -15,8 +15,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/x256free/fastychain/v1/ethdb"
-	"github.com/x256free/fastychain/v1/ethdb/s3"
+	"github.com/x256free/fastychain/v4/ethdb"
+	"github.com/x256free/fastychain/v4/ethdb/s3"
 )
 
 var (

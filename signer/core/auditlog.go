@@ -20,10 +20,10 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/hexutil"
-	"github.com/x256free/fastychain/v1/internal/ethapi"
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/hexutil"
+	"github.com/x256free/fastychain/v4/internal/ethapi"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 type AuditLogger struct {

@@ -22,8 +22,8 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/x256free/fastychain/v1/p2p"
-	"github.com/x256free/fastychain/v1/p2p/nat"
+	"github.com/x256free/fastychain/v4/p2p"
+	"github.com/x256free/fastychain/v4/p2p/nat"
 )
 
 const (

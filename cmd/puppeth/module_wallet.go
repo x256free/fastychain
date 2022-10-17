@@ -25,7 +25,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // walletDockerfile is the Dockerfile required to run a web wallet.

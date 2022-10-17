@@ -21,9 +21,9 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core/state"
-	"github.com/x256free/fastychain/v1/ethdb"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core/state"
+	"github.com/x256free/fastychain/v4/ethdb"
 )
 
 var dumper = spew.ConfigState{Indent: "    "}

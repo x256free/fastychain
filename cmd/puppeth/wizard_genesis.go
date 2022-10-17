@@ -25,10 +25,10 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/params"
 )
 
 // makeGenesis creates a new genesis struct based on some user input.

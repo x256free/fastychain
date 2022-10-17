@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/x256free/fastychain/v1/common/hexutil"
-	"github.com/x256free/fastychain/v1/crypto"
+	"github.com/x256free/fastychain/v4/common/hexutil"
+	"github.com/x256free/fastychain/v4/crypto"
 )
 
 type bytesBacked interface {

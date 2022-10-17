@@ -25,10 +25,10 @@ import (
 	"runtime"
 
 	"github.com/fjl/memsize/memsizeui"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/log/term"
-	"github.com/x256free/fastychain/v1/metrics"
-	"github.com/x256free/fastychain/v1/metrics/exp"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/log/term"
+	"github.com/x256free/fastychain/v4/metrics"
+	"github.com/x256free/fastychain/v4/metrics/exp"
 	"github.com/mattn/go-colorable"
 	"github.com/urfave/cli"
 )

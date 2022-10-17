@@ -19,8 +19,8 @@ package vm
 import (
 	"math/big"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/math"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/math"
 )
 
 // calculates the memory size required for a step

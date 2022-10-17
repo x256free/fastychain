@@ -19,7 +19,7 @@ package vm
 import (
 	"testing"
 
-	"github.com/x256free/fastychain/v1/crypto"
+	"github.com/x256free/fastychain/v4/crypto"
 )
 
 func TestJumpDestAnalysis(t *testing.T) {

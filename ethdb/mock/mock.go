@@ -3,7 +3,7 @@ package mock
 import (
 	"context"
 
-	"github.com/x256free/fastychain/v1/ethdb"
+	"github.com/x256free/fastychain/v4/ethdb"
 )
 
 var _ ethdb.Segment = (*Segment)(nil)

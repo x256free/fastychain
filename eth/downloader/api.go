@@ -20,9 +20,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/x256free/fastychain/v1"
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 // PublicDownloaderAPI provides an API which gives information about the current synchronisation status.

@@ -19,7 +19,7 @@ package downloader
 import (
 	"fmt"
 
-	"github.com/x256free/fastychain/v1/core/types"
+	"github.com/x256free/fastychain/v4/core/types"
 )
 
 // peerDropFn is a callback type for dropping a peer detected as malicious.

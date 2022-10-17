@@ -21,9 +21,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/x256free/fastychain/v1/eth/downloader"
-	"github.com/x256free/fastychain/v1/p2p"
-	"github.com/x256free/fastychain/v1/p2p/discover"
+	"github.com/x256free/fastychain/v4/eth/downloader"
+	"github.com/x256free/fastychain/v4/p2p"
+	"github.com/x256free/fastychain/v4/p2p/discover"
 )
 
 // Tests that fast sync gets disabled as soon as a real block is successfully

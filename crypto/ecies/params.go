@@ -42,7 +42,7 @@ import (
 	"fmt"
 	"hash"
 
-	ethcrypto "github.com/x256free/fastychain/v1/crypto"
+	ethcrypto "github.com/x256free/fastychain/v4/crypto"
 )
 
 var (

@@ -20,8 +20,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/x256free/fastychain/v1/accounts/keystore"
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/accounts/keystore"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // deployFaucet queries the user for various input on deploying a faucet, after

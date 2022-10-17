@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/x256free/fastychain/v1/common/hexutil"
+	"github.com/x256free/fastychain/v4/common/hexutil"
 )
 
 type MyType [5]byte

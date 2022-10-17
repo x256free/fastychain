@@ -22,13 +22,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common/hexutil"
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/metrics"
-	"github.com/x256free/fastychain/v1/p2p"
-	"github.com/x256free/fastychain/v1/p2p/discover"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/common/hexutil"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/metrics"
+	"github.com/x256free/fastychain/v4/p2p"
+	"github.com/x256free/fastychain/v4/p2p/discover"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 // PrivateAdminAPI is the collection of administrative API methods exposed only

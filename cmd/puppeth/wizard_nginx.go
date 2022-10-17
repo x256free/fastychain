@@ -19,7 +19,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // ensureVirtualHost checks whether a reverse-proxy is running on the specified

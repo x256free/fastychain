@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/x256free/fastychain/v1/common"
+	"github.com/x256free/fastychain/v4/common"
 )
 
 // Hash represents the 32 byte Keccak256 hash of arbitrary data.

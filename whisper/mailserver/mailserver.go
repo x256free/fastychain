@@ -22,12 +22,12 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/x256free/fastychain/v1/cmd/utils"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/rlp"
-	whisper "github.com/x256free/fastychain/v1/whisper/whisperv6"
+	"github.com/x256free/fastychain/v4/cmd/utils"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/rlp"
+	whisper "github.com/x256free/fastychain/v4/whisper/whisperv6"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/util"
 )

@@ -24,7 +24,7 @@ import (
 	"os"
 	"runtime/trace"
 
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // StartGoTrace turns on tracing, writing to the given file.

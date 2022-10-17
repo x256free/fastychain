@@ -19,9 +19,9 @@ package core
 import (
 	"context"
 
-	"github.com/x256free/fastychain/v1/internal/ethapi"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/internal/ethapi"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 type StdIOUI struct {

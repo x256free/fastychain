@@ -25,7 +25,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/log"
 	"github.com/rs/cors"
 	"go.opencensus.io/plugin/ochttp"
 )

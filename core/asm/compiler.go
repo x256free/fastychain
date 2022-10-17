@@ -22,8 +22,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/x256free/fastychain/v1/common/math"
-	"github.com/x256free/fastychain/v1/core/vm"
+	"github.com/x256free/fastychain/v4/common/math"
+	"github.com/x256free/fastychain/v4/core/vm"
 )
 
 // Compiler contains information about the parsed source

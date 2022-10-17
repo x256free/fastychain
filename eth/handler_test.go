@@ -22,15 +22,15 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/core/state"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/eth/downloader"
-	"github.com/x256free/fastychain/v1/ethdb"
-	"github.com/x256free/fastychain/v1/p2p"
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/core/state"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/eth/downloader"
+	"github.com/x256free/fastychain/v4/ethdb"
+	"github.com/x256free/fastychain/v4/p2p"
+	"github.com/x256free/fastychain/v4/params"
 )
 
 // Tests that protocol versions and modes of operations are matched up properly.

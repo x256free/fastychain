@@ -23,8 +23,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/x256free/fastychain/v1/accounts/abi"
-	"github.com/x256free/fastychain/v1/common"
+	"github.com/x256free/fastychain/v4/accounts/abi"
+	"github.com/x256free/fastychain/v4/common"
 )
 
 // decodedCallData is an internal type to represent a method call parsed according

@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // Table represents key/value storage for a particular data type.

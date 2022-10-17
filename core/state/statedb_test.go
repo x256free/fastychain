@@ -30,9 +30,9 @@ import (
 
 	"gopkg.in/check.v1"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/ethdb"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/ethdb"
 )
 
 // Tests that updating a state trie does not leak any database writes prior to

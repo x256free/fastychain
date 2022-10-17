@@ -23,10 +23,10 @@ import (
 
 	"golang.org/x/crypto/sha3"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/math"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/math"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/params"
 )
 
 var (

@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/cmd/utils"
-	"github.com/x256free/fastychain/v1/core/vm"
+	"github.com/x256free/fastychain/v4/cmd/utils"
+	"github.com/x256free/fastychain/v4/core/vm"
 )
 
 var vmConfig vm.Config

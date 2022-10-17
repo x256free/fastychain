@@ -17,9 +17,9 @@
 package runtime
 
 import (
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/core/vm"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/core/vm"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {

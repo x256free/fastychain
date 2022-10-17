@@ -19,7 +19,7 @@ package bloombits
 import (
 	"errors"
 
-	"github.com/x256free/fastychain/v1/core/types"
+	"github.com/x256free/fastychain/v4/core/types"
 )
 
 var (

@@ -25,7 +25,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // handler handles JSON-RPC messages. There is one handler per connection. Note that

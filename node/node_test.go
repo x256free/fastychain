@@ -25,9 +25,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/p2p"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/p2p"
+	"github.com/x256free/fastychain/v4/rpc"
 
 	"github.com/stretchr/testify/assert"
 )

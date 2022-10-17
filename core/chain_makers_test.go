@@ -20,12 +20,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/x256free/fastychain/v1/consensus/clique"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/core/vm"
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/ethdb"
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/consensus/clique"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/core/vm"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/ethdb"
+	"github.com/x256free/fastychain/v4/params"
 )
 
 func ExampleGenerateChain() {

@@ -23,10 +23,10 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/x256free/fastychain/v1/core/state"
-	"github.com/x256free/fastychain/v1/core/vm"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/tests"
+	"github.com/x256free/fastychain/v4/core/state"
+	"github.com/x256free/fastychain/v4/core/vm"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/tests"
 
 	cli "github.com/urfave/cli"
 )

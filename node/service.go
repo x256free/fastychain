@@ -19,14 +19,14 @@ package node
 import (
 	"reflect"
 
-	"github.com/x256free/fastychain/v1/accounts"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/ethdb"
-	"github.com/x256free/fastychain/v1/ethdb/s3"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/p2p"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/accounts"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/ethdb"
+	"github.com/x256free/fastychain/v4/ethdb/s3"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/p2p"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 // ServiceContext is a collection of service independent options inherited from

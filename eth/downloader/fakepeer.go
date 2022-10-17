@@ -19,10 +19,10 @@ package downloader
 import (
 	"math/big"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/core/rawdb"
-	"github.com/x256free/fastychain/v1/core/types"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/core/rawdb"
+	"github.com/x256free/fastychain/v4/core/types"
 )
 
 // FakePeer is a mock downloader peer that operates on a local database instance

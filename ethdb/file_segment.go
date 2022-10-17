@@ -15,8 +15,8 @@ import (
 
 	"github.com/cespare/xxhash"
 	"github.com/edsrzf/mmap-go"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 var (

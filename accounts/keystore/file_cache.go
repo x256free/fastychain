@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // fileCache is a cache of files seen during scan of keystore.

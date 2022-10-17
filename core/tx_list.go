@@ -21,7 +21,7 @@ import (
 	"math/big"
 	"sort"
 
-	"github.com/x256free/fastychain/v1/core/types"
+	"github.com/x256free/fastychain/v4/core/types"
 )
 
 // nonceHeap is a heap.Interface implementation over 64bit unsigned integers for

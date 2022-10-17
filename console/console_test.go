@@ -26,12 +26,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/console/prompt"
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/eth"
-	"github.com/x256free/fastychain/v1/internal/jsre"
-	"github.com/x256free/fastychain/v1/node"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/console/prompt"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/eth"
+	"github.com/x256free/fastychain/v4/internal/jsre"
+	"github.com/x256free/fastychain/v4/node"
 )
 
 const (

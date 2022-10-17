@@ -207,7 +207,7 @@ func TestAndroid(t *testing.T) {
 		}
 	}
 	// Generate the mobile bindings for FastyChain and add the tester class
-	gobind := exec.Command("gomobile", "bind", "-javapkg", "io.fastychain", "github.com/x256free/fastychain/v1/mobile")
+	gobind := exec.Command("gomobile", "bind", "-javapkg", "io.fastychain", "github.com/x256free/fastychain/v4/mobile")
 	if output, err := gobind.CombinedOutput(); err != nil {
 		t.Logf("%s", output)
 		t.Fatalf("failed to run gomobile bind: %v", err)

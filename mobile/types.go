@@ -23,9 +23,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/rlp"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/rlp"
 )
 
 // A Nonce is a 64-bit hash which proves (combined with the mix-hash) that

@@ -20,8 +20,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/ethdb"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/ethdb"
 )
 
 // Tests that the node iterator indeed walks over the entire database contents.

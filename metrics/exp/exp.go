@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/x256free/fastychain/v1/metrics"
+	"github.com/x256free/fastychain/v4/metrics"
 )
 
 type exp struct {

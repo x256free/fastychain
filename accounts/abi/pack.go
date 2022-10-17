@@ -22,8 +22,8 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/math"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/math"
 )
 
 // packBytesSlice packs the given bytes as [L, V] as the canonical representation

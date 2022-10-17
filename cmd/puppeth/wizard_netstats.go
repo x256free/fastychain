@@ -23,8 +23,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/log"
 	"github.com/olekukonko/tablewriter"
 )
 

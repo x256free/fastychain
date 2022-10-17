@@ -22,8 +22,8 @@ package node
 import (
 	"reflect"
 
-	"github.com/x256free/fastychain/v1/p2p"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/p2p"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 // NoopService is a trivial implementation of the Service interface.

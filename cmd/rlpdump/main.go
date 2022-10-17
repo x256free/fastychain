@@ -26,7 +26,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/x256free/fastychain/v1/rlp"
+	"github.com/x256free/fastychain/v4/rlp"
 )
 
 var (

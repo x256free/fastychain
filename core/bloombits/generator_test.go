@@ -21,7 +21,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/core/types"
+	"github.com/x256free/fastychain/v4/core/types"
 )
 
 // Tests that batched bloom bits are correctly rotated from the input bloom

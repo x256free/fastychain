@@ -25,12 +25,12 @@ import (
 	"time"
 
 	"github.com/dop251/goja"
-	"github.com/x256free/fastychain/v1/accounts/scwallet"
-	"github.com/x256free/fastychain/v1/accounts/usbwallet"
-	"github.com/x256free/fastychain/v1/common/hexutil"
-	"github.com/x256free/fastychain/v1/console/prompt"
-	"github.com/x256free/fastychain/v1/internal/jsre"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/accounts/scwallet"
+	"github.com/x256free/fastychain/v4/accounts/usbwallet"
+	"github.com/x256free/fastychain/v4/common/hexutil"
+	"github.com/x256free/fastychain/v4/console/prompt"
+	"github.com/x256free/fastychain/v4/internal/jsre"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 // bridge is a collection of JavaScript utility methods to bride the .js runtime

@@ -21,13 +21,13 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/x256free/fastychain/v1"
-	"github.com/x256free/fastychain/v1/accounts/abi/bind"
-	"github.com/x256free/fastychain/v1/accounts/abi/bind/backends"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/crypto"
+	"github.com/x256free/fastychain/v4"
+	"github.com/x256free/fastychain/v4/accounts/abi/bind"
+	"github.com/x256free/fastychain/v4/accounts/abi/bind/backends"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/crypto"
 )
 
 func TestSimulatedBackend(t *testing.T) {

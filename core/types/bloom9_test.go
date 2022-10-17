@@ -54,7 +54,7 @@ func TestBloom(t *testing.T) {
 import (
 	"testing"
 
-	"github.com/x256free/fastychain/v1/core/state"
+	"github.com/x256free/fastychain/v4/core/state"
 )
 
 func TestBloom9(t *testing.T) {

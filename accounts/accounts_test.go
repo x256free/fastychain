@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/common/hexutil"
+	"github.com/x256free/fastychain/v4/common/hexutil"
 )
 
 func TestTextHash(t *testing.T) {

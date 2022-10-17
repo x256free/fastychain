@@ -30,16 +30,16 @@ import (
 	lru "github.com/hashicorp/golang-lru"
 	"golang.org/x/crypto/sha3"
 
-	"github.com/x256free/fastychain/v1/accounts"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/hexutil"
-	"github.com/x256free/fastychain/v1/consensus"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/params"
-	"github.com/x256free/fastychain/v1/rlp"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/accounts"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/hexutil"
+	"github.com/x256free/fastychain/v4/consensus"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/params"
+	"github.com/x256free/fastychain/v4/rlp"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 const (

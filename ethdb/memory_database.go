@@ -19,7 +19,7 @@ package ethdb
 import (
 	"sync"
 
-	"github.com/x256free/fastychain/v1/common"
+	"github.com/x256free/fastychain/v4/common"
 )
 
 /*

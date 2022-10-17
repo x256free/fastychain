@@ -25,13 +25,13 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/node"
-	"github.com/x256free/fastychain/v1/p2p"
-	"github.com/x256free/fastychain/v1/p2p/discover"
-	"github.com/x256free/fastychain/v1/p2p/simulations"
-	"github.com/x256free/fastychain/v1/p2p/simulations/adapters"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/node"
+	"github.com/x256free/fastychain/v4/p2p"
+	"github.com/x256free/fastychain/v4/p2p/discover"
+	"github.com/x256free/fastychain/v4/p2p/simulations"
+	"github.com/x256free/fastychain/v4/p2p/simulations/adapters"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 var adapterType = flag.String("adapter", "sim", `node adapter to use (one of "sim", "exec" or "docker")`)

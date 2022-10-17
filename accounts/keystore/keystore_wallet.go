@@ -19,11 +19,11 @@ package keystore
 import (
 	"math/big"
 
-	"github.com/x256free/fastychain/v1"
+	"github.com/x256free/fastychain/v4"
 
-	"github.com/x256free/fastychain/v1/accounts"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/crypto"
+	"github.com/x256free/fastychain/v4/accounts"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/crypto"
 )
 
 // keystoreWallet implements the accounts.Wallet interface for the original

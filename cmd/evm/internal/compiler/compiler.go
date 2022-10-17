@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/x256free/fastychain/v1/core/asm"
+	"github.com/x256free/fastychain/v4/core/asm"
 )
 
 func Compile(fn string, src []byte, debug bool) (string, error) {

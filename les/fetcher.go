@@ -22,13 +22,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/mclock"
-	"github.com/x256free/fastychain/v1/consensus"
-	"github.com/x256free/fastychain/v1/core/rawdb"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/light"
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/mclock"
+	"github.com/x256free/fastychain/v4/consensus"
+	"github.com/x256free/fastychain/v4/core/rawdb"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/light"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 const (

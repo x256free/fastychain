@@ -22,8 +22,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/accounts/abi"
-	"github.com/x256free/fastychain/v1/common"
+	"github.com/x256free/fastychain/v4/accounts/abi"
+	"github.com/x256free/fastychain/v4/common"
 )
 
 // Tests that all the selectors contained in the 4byte database are valid.

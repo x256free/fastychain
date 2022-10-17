@@ -22,12 +22,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/x256free/fastychain/v1"
-	"github.com/x256free/fastychain/v1/accounts/abi"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/event"
+	"github.com/x256free/fastychain/v4"
+	"github.com/x256free/fastychain/v4/accounts/abi"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/event"
 )
 
 // SignerFn is a signer function callback when a contract requires a method to

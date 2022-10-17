@@ -25,16 +25,16 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/x256free/fastychain/v1/accounts"
-	"github.com/x256free/fastychain/v1/accounts/keystore"
-	"github.com/x256free/fastychain/v1/accounts/scwallet"
-	"github.com/x256free/fastychain/v1/accounts/usbwallet"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/hexutil"
-	"github.com/x256free/fastychain/v1/internal/ethapi"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/rlp"
-	"github.com/x256free/fastychain/v1/signer/storage"
+	"github.com/x256free/fastychain/v4/accounts"
+	"github.com/x256free/fastychain/v4/accounts/keystore"
+	"github.com/x256free/fastychain/v4/accounts/scwallet"
+	"github.com/x256free/fastychain/v4/accounts/usbwallet"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/hexutil"
+	"github.com/x256free/fastychain/v4/internal/ethapi"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/rlp"
+	"github.com/x256free/fastychain/v4/signer/storage"
 )
 
 const (

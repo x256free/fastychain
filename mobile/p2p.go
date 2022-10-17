@@ -21,7 +21,7 @@ package geth
 import (
 	"errors"
 
-	"github.com/x256free/fastychain/v1/p2p"
+	"github.com/x256free/fastychain/v4/p2p"
 )
 
 // NodeInfo represents pi short summary of the information known about the host.

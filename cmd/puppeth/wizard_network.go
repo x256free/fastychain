@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // manageServers displays a list of servers the user can disconnect from, and an

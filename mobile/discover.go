@@ -22,7 +22,7 @@ package geth
 import (
 	"errors"
 
-	"github.com/x256free/fastychain/v1/p2p/discv5"
+	"github.com/x256free/fastychain/v4/p2p/discv5"
 )
 
 // Enode represents a host on the network.

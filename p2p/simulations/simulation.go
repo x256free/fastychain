@@ -20,7 +20,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/x256free/fastychain/v1/p2p/discover"
+	"github.com/x256free/fastychain/v4/p2p/discover"
 )
 
 // Simulation provides a framework for running actions in a simulated network

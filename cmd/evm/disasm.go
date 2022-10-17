@@ -22,7 +22,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/x256free/fastychain/v1/core/asm"
+	"github.com/x256free/fastychain/v4/core/asm"
 	cli "github.com/urfave/cli"
 )
 

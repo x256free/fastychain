@@ -25,11 +25,11 @@ import (
 	"net"
 	"time"
 
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/p2p/nat"
-	"github.com/x256free/fastychain/v1/p2p/netutil"
-	"github.com/x256free/fastychain/v1/rlp"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/p2p/nat"
+	"github.com/x256free/fastychain/v4/p2p/netutil"
+	"github.com/x256free/fastychain/v4/rlp"
 )
 
 const Version = 4

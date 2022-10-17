@@ -39,7 +39,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/crypto"
+	"github.com/x256free/fastychain/v4/crypto"
 )
 
 func TestKDF(t *testing.T) {

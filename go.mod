@@ -1,4 +1,4 @@
-module github.com/x256free/fastychain/v1
+module github.com/x256free/fastychain/v4
 
 go 1.18
 

@@ -19,10 +19,10 @@ package core
 import (
 	"math/big"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/consensus"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/core/vm"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/consensus"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/core/vm"
 )
 
 // ChainContext supports retrieving headers and consensus parameters from the

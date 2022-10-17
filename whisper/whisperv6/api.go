@@ -26,12 +26,12 @@ import (
 
 	"go.opencensus.io/trace"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/hexutil"
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/p2p/discover"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/hexutil"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/p2p/discover"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 const (

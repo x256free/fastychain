@@ -22,7 +22,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/log"
 	"github.com/urfave/cli"
 )
 

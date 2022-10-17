@@ -20,8 +20,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/prque"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/prque"
 )
 
 // ErrNotRequested is returned by the trie sync when it's requested to process a

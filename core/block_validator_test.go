@@ -21,12 +21,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common/hexutil"
-	"github.com/x256free/fastychain/v1/consensus/clique"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/core/vm"
-	"github.com/x256free/fastychain/v1/ethdb"
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/common/hexutil"
+	"github.com/x256free/fastychain/v4/consensus/clique"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/core/vm"
+	"github.com/x256free/fastychain/v4/ethdb"
+	"github.com/x256free/fastychain/v4/params"
 )
 
 // Tests that simple header verification works, for both good and bad blocks.

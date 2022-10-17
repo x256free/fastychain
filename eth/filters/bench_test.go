@@ -23,13 +23,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/bitutil"
-	"github.com/x256free/fastychain/v1/core/bloombits"
-	"github.com/x256free/fastychain/v1/core/rawdb"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/ethdb"
-	"github.com/x256free/fastychain/v1/node"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/bitutil"
+	"github.com/x256free/fastychain/v4/core/bloombits"
+	"github.com/x256free/fastychain/v4/core/rawdb"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/ethdb"
+	"github.com/x256free/fastychain/v4/node"
 )
 
 func BenchmarkBloomBits512(b *testing.B) {

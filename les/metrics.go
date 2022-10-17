@@ -17,8 +17,8 @@
 package les
 
 import (
-	"github.com/x256free/fastychain/v1/metrics"
-	"github.com/x256free/fastychain/v1/p2p"
+	"github.com/x256free/fastychain/v4/metrics"
+	"github.com/x256free/fastychain/v4/p2p"
 )
 
 var (

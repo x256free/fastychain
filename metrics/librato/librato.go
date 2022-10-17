@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/x256free/fastychain/v1/metrics"
+	"github.com/x256free/fastychain/v4/metrics"
 )
 
 // a regexp for extracting the unit from time.Duration.String

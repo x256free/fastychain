@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/x256free/fastychain/v1/ethdb"
-	"github.com/x256free/fastychain/v1/ethdb/mock"
+	"github.com/x256free/fastychain/v4/ethdb"
+	"github.com/x256free/fastychain/v4/ethdb/mock"
 )
 
 func TestSegmentSet_AcquireRelease(t *testing.T) {

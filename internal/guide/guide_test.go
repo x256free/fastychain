@@ -30,8 +30,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/x256free/fastychain/v1/accounts/keystore"
-	"github.com/x256free/fastychain/v1/core/types"
+	"github.com/x256free/fastychain/v4/accounts/keystore"
+	"github.com/x256free/fastychain/v4/core/types"
 )
 
 // Tests that the account management snippets work correctly.

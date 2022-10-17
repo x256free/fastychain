@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // deployWallet creates a new web wallet based on some user input.

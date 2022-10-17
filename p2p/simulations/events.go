@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // EventType is the type of event emitted by a simulation network

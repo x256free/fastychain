@@ -16,7 +16,7 @@
 
 package core
 
-import "github.com/x256free/fastychain/v1/common"
+import "github.com/x256free/fastychain/v4/common"
 
 // BadHashes represent a set of manually tracked bad hashes (usually hard forks)
 var BadHashes = map[common.Hash]bool{

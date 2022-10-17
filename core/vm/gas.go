@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/params"
 )
 
 // Gas costs

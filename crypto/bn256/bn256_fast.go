@@ -9,7 +9,7 @@
 package bn256
 
 import (
-	bn256cf "github.com/x256free/fastychain/v1/crypto/bn256/cloudflare"
+	bn256cf "github.com/x256free/fastychain/v4/crypto/bn256/cloudflare"
 )
 
 // G1 is an abstract cyclic group. The zero value is suitable for use as the

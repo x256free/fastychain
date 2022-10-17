@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/common"
+	"github.com/x256free/fastychain/v4/common"
 )
 
 func (g *G1) one() *PointG1 {

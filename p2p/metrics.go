@@ -21,7 +21,7 @@ package p2p
 import (
 	"net"
 
-	"github.com/x256free/fastychain/v1/metrics"
+	"github.com/x256free/fastychain/v4/metrics"
 )
 
 var (

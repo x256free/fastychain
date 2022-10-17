@@ -21,10 +21,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/ethdb"
-	"github.com/x256free/fastychain/v1/trie"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/ethdb"
+	"github.com/x256free/fastychain/v4/trie"
 )
 
 // testAccount is the data associated with an account used by the state tests.

@@ -20,9 +20,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/hexutil"
-	"github.com/x256free/fastychain/v1/signer/core"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/hexutil"
+	"github.com/x256free/fastychain/v4/signer/core"
 )
 
 func mixAddr(a string) (*common.MixedcaseAddress, error) {

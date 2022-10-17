@@ -20,7 +20,7 @@ package utils
 import (
 	"fmt"
 
-	"github.com/x256free/fastychain/v1/console/prompt"
+	"github.com/x256free/fastychain/v4/console/prompt"
 )
 
 // GetPassPhrase displays the given text(prompt) to the user and requests some textual

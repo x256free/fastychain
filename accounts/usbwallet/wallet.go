@@ -25,12 +25,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/x256free/fastychain/v1"
-	"github.com/x256free/fastychain/v1/accounts"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4"
+	"github.com/x256free/fastychain/v4/accounts"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/log"
 	"github.com/karalabe/usb"
 )
 

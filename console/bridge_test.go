@@ -20,7 +20,7 @@ import (
 	"testing"
 
 	"github.com/dop251/goja"
-	"github.com/x256free/fastychain/v1/internal/jsre"
+	"github.com/x256free/fastychain/v4/internal/jsre"
 )
 
 // TestUndefinedAsParam ensures that personal functions can receive

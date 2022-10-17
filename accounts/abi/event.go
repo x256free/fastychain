@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/crypto"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/crypto"
 )
 
 // Event is an event potentially triggered by the EVM's LOG mechanism. The Event

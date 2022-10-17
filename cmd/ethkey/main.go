@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/x256free/fastychain/v1/cmd/utils"
+	"github.com/x256free/fastychain/v4/cmd/utils"
 	"github.com/urfave/cli"
 )
 

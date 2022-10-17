@@ -24,9 +24,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/crypto"
-	whisper "github.com/x256free/fastychain/v1/whisper/whisperv6"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/crypto"
+	whisper "github.com/x256free/fastychain/v4/whisper/whisperv6"
 )
 
 const powRequirement = 0.00001

@@ -27,13 +27,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/event"
-	"github.com/x256free/fastychain/v1/node"
-	"github.com/x256free/fastychain/v1/p2p"
-	"github.com/x256free/fastychain/v1/p2p/discover"
-	"github.com/x256free/fastychain/v1/p2p/simulations/adapters"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/event"
+	"github.com/x256free/fastychain/v4/node"
+	"github.com/x256free/fastychain/v4/p2p"
+	"github.com/x256free/fastychain/v4/p2p/discover"
+	"github.com/x256free/fastychain/v4/p2p/simulations/adapters"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 // testService implements the node.Service interface and provides protocols

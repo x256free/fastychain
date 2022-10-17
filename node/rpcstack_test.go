@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/rpc"
 	"github.com/stretchr/testify/assert"
 )
 

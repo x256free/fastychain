@@ -5,7 +5,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/x256free/fastychain/v1/ethdb"
+	"github.com/x256free/fastychain/v4/ethdb"
 )
 
 type KeysCommand struct{}

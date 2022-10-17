@@ -20,7 +20,7 @@ import (
 	"crypto/sha256"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/crypto"
+	"github.com/x256free/fastychain/v4/crypto"
 	"golang.org/x/crypto/pbkdf2"
 )
 

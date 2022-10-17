@@ -26,15 +26,15 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/hexutil"
-	"github.com/x256free/fastychain/v1/common/math"
-	"github.com/x256free/fastychain/v1/core/rawdb"
-	"github.com/x256free/fastychain/v1/core/state"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/ethdb"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/hexutil"
+	"github.com/x256free/fastychain/v4/common/math"
+	"github.com/x256free/fastychain/v4/core/rawdb"
+	"github.com/x256free/fastychain/v4/core/state"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/ethdb"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/params"
 )
 
 //go:generate gencodec -type Genesis -field-override genesisSpecMarshaling -out gen_genesis.go

@@ -24,8 +24,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/p2p"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/p2p"
 )
 
 // Tests that datadirs can be successfully created, be them manually configured

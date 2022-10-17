@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 func TestUnmarshalJSONNewFilterArgs(t *testing.T) {

@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/params"
 )
 
 // This table defines supported forks and their chain config.

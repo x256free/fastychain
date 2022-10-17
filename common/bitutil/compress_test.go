@@ -21,7 +21,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/common/hexutil"
+	"github.com/x256free/fastychain/v4/common/hexutil"
 )
 
 // Tests that data bitset encoding and decoding works and is bijective.

@@ -28,17 +28,17 @@ import (
 	"strings"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/hexutil"
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/core/rawdb"
-	"github.com/x256free/fastychain/v1/core/state"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/internal/ethapi"
-	"github.com/x256free/fastychain/v1/params"
-	"github.com/x256free/fastychain/v1/rlp"
-	"github.com/x256free/fastychain/v1/rpc"
-	"github.com/x256free/fastychain/v1/trie"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/hexutil"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/core/rawdb"
+	"github.com/x256free/fastychain/v4/core/state"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/internal/ethapi"
+	"github.com/x256free/fastychain/v4/params"
+	"github.com/x256free/fastychain/v4/rlp"
+	"github.com/x256free/fastychain/v4/rpc"
+	"github.com/x256free/fastychain/v4/trie"
 )
 
 // PublicEthereumAPI provides an API to access full node-related

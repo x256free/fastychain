@@ -21,8 +21,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 // StartHTTPEndpoint starts the HTTP RPC endpoint.

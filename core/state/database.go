@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/trie"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/trie"
 	lru "github.com/hashicorp/golang-lru"
 )
 

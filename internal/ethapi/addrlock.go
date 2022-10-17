@@ -19,7 +19,7 @@ package ethapi
 import (
 	"sync"
 
-	"github.com/x256free/fastychain/v1/common"
+	"github.com/x256free/fastychain/v4/common"
 )
 
 // AddrLocker stores locks per account. This is used to prevent another tx getting the

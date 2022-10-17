@@ -22,10 +22,10 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/x256free/fastychain/v1/accounts/abi"
-	"github.com/x256free/fastychain/v1/accounts/abi/bind"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core/types"
+	"github.com/x256free/fastychain/v4/accounts/abi"
+	"github.com/x256free/fastychain/v4/accounts/abi/bind"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core/types"
 )
 
 // Signer is an interaface defining the callback when a contract requires a

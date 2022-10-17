@@ -22,8 +22,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/x256free/fastychain/v1/p2p/discover"
-	"github.com/x256free/fastychain/v1/p2p/simulations/adapters"
+	"github.com/x256free/fastychain/v4/p2p/discover"
+	"github.com/x256free/fastychain/v4/p2p/simulations/adapters"
 )
 
 // TestNetworkSimulation creates a multi-node simulation network with each node

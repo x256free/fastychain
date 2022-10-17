@@ -21,9 +21,9 @@ package geth
 import (
 	"encoding/json"
 
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/p2p/discv5"
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/p2p/discv5"
+	"github.com/x256free/fastychain/v4/params"
 )
 
 // MainnetGenesis returns the JSON spec to use for the main Ethereum network. It

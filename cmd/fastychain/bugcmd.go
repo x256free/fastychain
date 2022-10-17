@@ -26,10 +26,10 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/x256free/fastychain/v1/cmd/internal/browser"
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/cmd/internal/browser"
+	"github.com/x256free/fastychain/v4/params"
 
-	"github.com/x256free/fastychain/v1/cmd/utils"
+	"github.com/x256free/fastychain/v4/cmd/utils"
 	cli "github.com/urfave/cli"
 )
 

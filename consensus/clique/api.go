@@ -19,10 +19,10 @@ package clique
 import (
 	"context"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/consensus"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/consensus"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 // API is a user facing RPC API to allow controlling the signer and voting

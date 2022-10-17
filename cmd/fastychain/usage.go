@@ -22,8 +22,8 @@ import (
 	"io"
 	"sort"
 
-	"github.com/x256free/fastychain/v1/cmd/utils"
-	"github.com/x256free/fastychain/v1/internal/debug"
+	"github.com/x256free/fastychain/v4/cmd/utils"
+	"github.com/x256free/fastychain/v4/internal/debug"
 	"github.com/urfave/cli"
 )
 

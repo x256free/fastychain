@@ -21,8 +21,8 @@ package geth
 import (
 	"math/big"
 
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/goclient"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/goclient"
 )
 
 // GoClient provides access to the Ethereum APIs.

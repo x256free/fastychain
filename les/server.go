@@ -23,17 +23,17 @@ import (
 	"math"
 	"sync"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/core/rawdb"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/eth"
-	"github.com/x256free/fastychain/v1/les/flowcontrol"
-	"github.com/x256free/fastychain/v1/light"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/p2p"
-	"github.com/x256free/fastychain/v1/p2p/discv5"
-	"github.com/x256free/fastychain/v1/rlp"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/core/rawdb"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/eth"
+	"github.com/x256free/fastychain/v4/les/flowcontrol"
+	"github.com/x256free/fastychain/v4/light"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/p2p"
+	"github.com/x256free/fastychain/v4/p2p/discv5"
+	"github.com/x256free/fastychain/v4/rlp"
 )
 
 type LesServer struct {

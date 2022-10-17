@@ -21,9 +21,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/x256free/fastychain/v1/accounts/keystore"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/accounts/keystore"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // deployNode creates a new node configuration based on some user input.

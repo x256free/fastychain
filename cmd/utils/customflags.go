@@ -27,7 +27,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/x256free/fastychain/v1/common/math"
+	"github.com/x256free/fastychain/v4/common/math"
 	"github.com/urfave/cli"
 )
 

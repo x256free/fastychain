@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // Enabled is checked by the constructor functions for all of the

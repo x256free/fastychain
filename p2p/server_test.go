@@ -27,9 +27,9 @@ import (
 
 	"golang.org/x/crypto/sha3"
 
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/p2p/discover"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/p2p/discover"
 )
 
 func init() {

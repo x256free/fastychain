@@ -22,8 +22,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/signer/core"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/signer/core"
 )
 
 // ValidateTransaction does a number of checks on the supplied transaction, and

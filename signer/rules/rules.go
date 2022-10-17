@@ -23,11 +23,11 @@ import (
 	"strings"
 
 	"github.com/dop251/goja"
-	"github.com/x256free/fastychain/v1/internal/ethapi"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/signer/core"
-	"github.com/x256free/fastychain/v1/signer/rules/deps"
-	"github.com/x256free/fastychain/v1/signer/storage"
+	"github.com/x256free/fastychain/v4/internal/ethapi"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/signer/core"
+	"github.com/x256free/fastychain/v4/signer/rules/deps"
+	"github.com/x256free/fastychain/v4/signer/storage"
 )
 
 var (

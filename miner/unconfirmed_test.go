@@ -19,8 +19,8 @@ package miner
 import (
 	"testing"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core/types"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core/types"
 )
 
 // noopChainRetriever is an implementation of headerRetriever that always

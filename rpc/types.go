@@ -23,8 +23,8 @@ import (
 	"math"
 	"strings"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/hexutil"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/hexutil"
 )
 
 // API describes the set of methods offered over the RPC interface

@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common/mclock"
+	"github.com/x256free/fastychain/v4/common/mclock"
 )
 
 const rcConst = 1000000

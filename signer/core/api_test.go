@@ -27,16 +27,16 @@ import (
 	"testing"
 	"time"
 
-	"github.com/x256free/fastychain/v1/accounts"
-	"github.com/x256free/fastychain/v1/accounts/keystore"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/hexutil"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/internal/ethapi"
-	"github.com/x256free/fastychain/v1/rlp"
-	"github.com/x256free/fastychain/v1/signer/core"
-	"github.com/x256free/fastychain/v1/signer/fourbyte"
-	"github.com/x256free/fastychain/v1/signer/storage"
+	"github.com/x256free/fastychain/v4/accounts"
+	"github.com/x256free/fastychain/v4/accounts/keystore"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/hexutil"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/internal/ethapi"
+	"github.com/x256free/fastychain/v4/rlp"
+	"github.com/x256free/fastychain/v4/signer/core"
+	"github.com/x256free/fastychain/v4/signer/fourbyte"
+	"github.com/x256free/fastychain/v4/signer/storage"
 )
 
 //Used for testing

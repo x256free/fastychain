@@ -21,12 +21,12 @@ import (
 	"encoding/binary"
 	"math/big"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/ethdb"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/params"
-	"github.com/x256free/fastychain/v1/rlp"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/ethdb"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/params"
+	"github.com/x256free/fastychain/v4/rlp"
 )
 
 // ReadCanonicalHash retrieves the hash assigned to a canonical block number.

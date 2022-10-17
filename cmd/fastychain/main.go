@@ -24,22 +24,22 @@ import (
 	"strings"
 	"time"
 
-	"github.com/x256free/fastychain/v1/console/prompt"
+	"github.com/x256free/fastychain/v4/console/prompt"
 
 	"contrib.go.opencensus.io/exporter/stackdriver"
 	"github.com/urfave/cli"
 	"go.opencensus.io/trace"
 
-	"github.com/x256free/fastychain/v1/accounts"
-	"github.com/x256free/fastychain/v1/accounts/keystore"
-	"github.com/x256free/fastychain/v1/cmd/utils"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/eth"
-	"github.com/x256free/fastychain/v1/goclient"
-	"github.com/x256free/fastychain/v1/internal/debug"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/metrics"
-	"github.com/x256free/fastychain/v1/node"
+	"github.com/x256free/fastychain/v4/accounts"
+	"github.com/x256free/fastychain/v4/accounts/keystore"
+	"github.com/x256free/fastychain/v4/cmd/utils"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/eth"
+	"github.com/x256free/fastychain/v4/goclient"
+	"github.com/x256free/fastychain/v4/internal/debug"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/metrics"
+	"github.com/x256free/fastychain/v4/node"
 )
 
 const (

@@ -25,14 +25,14 @@ import (
 	"sync"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/common/prque"
-	"github.com/x256free/fastychain/v1/core/state"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/eth/gasprice"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/metrics"
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/common/prque"
+	"github.com/x256free/fastychain/v4/core/state"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/eth/gasprice"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/metrics"
+	"github.com/x256free/fastychain/v4/params"
 )
 
 const (

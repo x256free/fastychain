@@ -22,7 +22,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/x256free/fastychain/v1/common"
+	"github.com/x256free/fastychain/v4/common"
 )
 
 // Interface represents a wrapped version of Go's interface{}, with the capacity

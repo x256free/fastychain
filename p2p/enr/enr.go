@@ -37,8 +37,8 @@ import (
 
 	"golang.org/x/crypto/sha3"
 
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/rlp"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/rlp"
 )
 
 const SizeLimit = 300 // maximum encoded size of a node record in bytes

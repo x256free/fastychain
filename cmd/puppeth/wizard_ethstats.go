@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // deployNetstats queries the user for various input on deploying an netstats

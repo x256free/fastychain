@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/x256free/fastychain/v1/node"
-	"github.com/x256free/fastychain/v1/p2p"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/node"
+	"github.com/x256free/fastychain/v4/p2p"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 // SampleService is a trivial network service that can be attached to a node for

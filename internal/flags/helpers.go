@@ -20,7 +20,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/params"
 	cli "gopkg.in/urfave/cli.v1"
 )
 

@@ -3,9 +3,9 @@ package clique
 import (
 	"math/big"
 
-	"github.com/x256free/fastychain/v1/consensus"
-	"github.com/x256free/fastychain/v1/core/state"
-	"github.com/x256free/fastychain/v1/core/types"
+	"github.com/x256free/fastychain/v4/consensus"
+	"github.com/x256free/fastychain/v4/core/state"
+	"github.com/x256free/fastychain/v4/core/types"
 )
 
 // BlockReward is the reward in wei distributed each block.

@@ -24,11 +24,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/x256free/fastychain/v1/event"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/p2p"
-	"github.com/x256free/fastychain/v1/p2p/discover"
-	"github.com/x256free/fastychain/v1/p2p/simulations/adapters"
+	"github.com/x256free/fastychain/v4/event"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/p2p"
+	"github.com/x256free/fastychain/v4/p2p/discover"
+	"github.com/x256free/fastychain/v4/p2p/simulations/adapters"
 )
 
 var dialBanTimeout = 200 * time.Millisecond

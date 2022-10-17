@@ -34,12 +34,12 @@ import (
 	"time"
 
 	pcsc "github.com/gballet/go-libpcsclite"
-	ethereum "github.com/x256free/fastychain/v1"
-	"github.com/x256free/fastychain/v1/accounts"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/log"
+	ethereum "github.com/x256free/fastychain/v4"
+	"github.com/x256free/fastychain/v4/accounts"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/log"
 	"github.com/status-im/keycard-go/derivationpath"
 )
 

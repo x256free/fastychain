@@ -20,9 +20,9 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/rlp"
-	"github.com/x256free/fastychain/v1/trie"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/rlp"
+	"github.com/x256free/fastychain/v4/trie"
 )
 
 // NodeIterator is an iterator to traverse the entire state trie post-order,

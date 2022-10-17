@@ -22,9 +22,9 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/x256free/fastychain/v1/cmd/utils"
-	"github.com/x256free/fastychain/v1/eth"
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/cmd/utils"
+	"github.com/x256free/fastychain/v4/eth"
+	"github.com/x256free/fastychain/v4/params"
 	"github.com/urfave/cli"
 )
 

@@ -20,10 +20,10 @@ import (
 	"context"
 	"time"
 
-	"github.com/x256free/fastychain/v1/core/rawdb"
-	"github.com/x256free/fastychain/v1/eth/downloader"
-	"github.com/x256free/fastychain/v1/light"
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/core/rawdb"
+	"github.com/x256free/fastychain/v4/eth/downloader"
+	"github.com/x256free/fastychain/v4/light"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 const (

@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/x256free/fastychain/v1/cmd/evm/internal/compiler"
+	"github.com/x256free/fastychain/v4/cmd/evm/internal/compiler"
 
 	cli "github.com/urfave/cli"
 )

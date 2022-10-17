@@ -19,7 +19,7 @@ package p2p
 import (
 	"fmt"
 
-	"github.com/x256free/fastychain/v1/p2p/discover"
+	"github.com/x256free/fastychain/v4/p2p/discover"
 )
 
 // Protocol represents a P2P subprotocol implementation.

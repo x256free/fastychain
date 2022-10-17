@@ -28,7 +28,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common"
+	"github.com/x256free/fastychain/v4/common"
 )
 
 // In this test, nodes try to randomly resolve each other.

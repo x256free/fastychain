@@ -26,8 +26,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common/bitutil"
-	"github.com/x256free/fastychain/v1/crypto"
+	"github.com/x256free/fastychain/v4/common/bitutil"
+	"github.com/x256free/fastychain/v4/crypto"
 )
 
 // bloomIndexes represents the bit indexes inside the bloom filter that belong

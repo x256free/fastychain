@@ -29,12 +29,12 @@ import (
 
 	cli "github.com/urfave/cli"
 
-	"github.com/x256free/fastychain/v1/cmd/utils"
-	"github.com/x256free/fastychain/v1/eth"
-	"github.com/x256free/fastychain/v1/netstats"
-	"github.com/x256free/fastychain/v1/node"
-	"github.com/x256free/fastychain/v1/params"
-	whisper "github.com/x256free/fastychain/v1/whisper/whisperv6"
+	"github.com/x256free/fastychain/v4/cmd/utils"
+	"github.com/x256free/fastychain/v4/eth"
+	"github.com/x256free/fastychain/v4/netstats"
+	"github.com/x256free/fastychain/v4/node"
+	"github.com/x256free/fastychain/v4/params"
+	whisper "github.com/x256free/fastychain/v4/whisper/whisperv6"
 	"github.com/naoina/toml"
 )
 

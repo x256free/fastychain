@@ -25,17 +25,17 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/eth"
-	"github.com/x256free/fastychain/v1/eth/downloader"
-	"github.com/x256free/fastychain/v1/goclient"
-	"github.com/x256free/fastychain/v1/les"
-	"github.com/x256free/fastychain/v1/netstats"
-	"github.com/x256free/fastychain/v1/node"
-	"github.com/x256free/fastychain/v1/p2p"
-	"github.com/x256free/fastychain/v1/p2p/nat"
-	"github.com/x256free/fastychain/v1/params"
-	whisper "github.com/x256free/fastychain/v1/whisper/whisperv6"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/eth"
+	"github.com/x256free/fastychain/v4/eth/downloader"
+	"github.com/x256free/fastychain/v4/goclient"
+	"github.com/x256free/fastychain/v4/les"
+	"github.com/x256free/fastychain/v4/netstats"
+	"github.com/x256free/fastychain/v4/node"
+	"github.com/x256free/fastychain/v4/p2p"
+	"github.com/x256free/fastychain/v4/p2p/nat"
+	"github.com/x256free/fastychain/v4/params"
+	whisper "github.com/x256free/fastychain/v4/whisper/whisperv6"
 )
 
 // NodeConfig represents the collection of configuration values to fine tune the FastyChain

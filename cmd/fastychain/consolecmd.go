@@ -24,10 +24,10 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/x256free/fastychain/v1/cmd/utils"
-	"github.com/x256free/fastychain/v1/console"
-	"github.com/x256free/fastychain/v1/node"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/cmd/utils"
+	"github.com/x256free/fastychain/v4/console"
+	"github.com/x256free/fastychain/v4/node"
+	"github.com/x256free/fastychain/v4/rpc"
 	"github.com/urfave/cli"
 )
 

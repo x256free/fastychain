@@ -17,7 +17,7 @@
 // Package bind generates Ethereum contract Go bindings.
 //
 // Detailed usage document and tutorial available on the go-ethereum Wiki page:
-// https://github.com/x256free/fastychain/v1/wiki/Native-DApps:-Go-bindings-to-Ethereum-contracts
+// https://github.com/x256free/fastychain/v4/wiki/Native-DApps:-Go-bindings-to-Ethereum-contracts
 package bind
 
 import (
@@ -30,8 +30,8 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/x256free/fastychain/v1/accounts/abi"
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/accounts/abi"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // Lang is a target programming language selector to generate bindings for.

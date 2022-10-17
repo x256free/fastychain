@@ -17,9 +17,9 @@
 package core
 
 import (
-	"github.com/x256free/fastychain/v1/core/state"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/core/vm"
+	"github.com/x256free/fastychain/v4/core/state"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/core/vm"
 )
 
 // Validator is an interface which defines the standard for block validation. It

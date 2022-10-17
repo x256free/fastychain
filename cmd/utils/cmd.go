@@ -28,12 +28,12 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/internal/debug"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/node"
-	"github.com/x256free/fastychain/v1/rlp"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/internal/debug"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/node"
+	"github.com/x256free/fastychain/v4/rlp"
 )
 
 const (

@@ -22,8 +22,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/ethdb"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/ethdb"
 )
 
 func TestIterator(t *testing.T) {

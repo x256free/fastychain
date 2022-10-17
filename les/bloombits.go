@@ -19,8 +19,8 @@ package les
 import (
 	"time"
 
-	"github.com/x256free/fastychain/v1/common/bitutil"
-	"github.com/x256free/fastychain/v1/light"
+	"github.com/x256free/fastychain/v4/common/bitutil"
+	"github.com/x256free/fastychain/v4/light"
 )
 
 const (

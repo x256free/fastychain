@@ -24,12 +24,12 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/x256free/fastychain/v1/accounts/abi/bind"
-	"github.com/x256free/fastychain/v1/cmd/utils"
-	"github.com/x256free/fastychain/v1/common/compiler"
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/internal/flags"
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/accounts/abi/bind"
+	"github.com/x256free/fastychain/v4/cmd/utils"
+	"github.com/x256free/fastychain/v4/common/compiler"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/internal/flags"
+	"github.com/x256free/fastychain/v4/log"
 	"github.com/urfave/cli"
 )
 

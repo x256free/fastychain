@@ -16,7 +16,7 @@
 
 package bind
 
-import "github.com/x256free/fastychain/v1/accounts/abi"
+import "github.com/x256free/fastychain/v4/accounts/abi"
 
 // tmplData is the data structure required to fill the binding template.
 type tmplData struct {
@@ -91,12 +91,12 @@ import (
 	"math/big"
 	"strings"
 
-	fastychain "github.com/x256free/fastychain/v1"
-	"github.com/x256free/fastychain/v1/accounts/abi"
-	"github.com/x256free/fastychain/v1/accounts/abi/bind"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/event"
+	fastychain "github.com/x256free/fastychain/v4"
+	"github.com/x256free/fastychain/v4/accounts/abi"
+	"github.com/x256free/fastychain/v4/accounts/abi/bind"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/event"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.

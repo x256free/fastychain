@@ -29,11 +29,11 @@ import (
 	"syscall"
 
 	"github.com/dop251/goja"
-	"github.com/x256free/fastychain/v1/console/prompt"
-	"github.com/x256free/fastychain/v1/internal/jsre"
-	"github.com/x256free/fastychain/v1/internal/jsre/deps"
-	"github.com/x256free/fastychain/v1/internal/web3ext"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/console/prompt"
+	"github.com/x256free/fastychain/v4/internal/jsre"
+	"github.com/x256free/fastychain/v4/internal/jsre/deps"
+	"github.com/x256free/fastychain/v4/internal/web3ext"
+	"github.com/x256free/fastychain/v4/rpc"
 	colorable "github.com/mattn/go-colorable"
 	"github.com/peterh/liner"
 )

@@ -22,11 +22,11 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/ethdb"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/rlp"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/ethdb"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/rlp"
 )
 
 var deduplicateData = []byte("dbUpgrade_20170714deduplicateData")

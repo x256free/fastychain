@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/x256free/fastychain/v1/common/hexutil"
-	"github.com/x256free/fastychain/v1/rpc"
+	"github.com/x256free/fastychain/v4/common/hexutil"
+	"github.com/x256free/fastychain/v4/rpc"
 )
 
 // In this example, our client wishes to track the latest 'block number'

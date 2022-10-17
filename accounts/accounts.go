@@ -25,10 +25,10 @@ import (
 
 	"golang.org/x/crypto/sha3"
 
-	"github.com/x256free/fastychain/v1"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // Account represents an Ethereum account located at a specific location defined

@@ -19,7 +19,7 @@ package vm
 import (
 	"fmt"
 
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/params"
 )
 
 func makeStackFunc(pop, push int) stackValidationFunc {

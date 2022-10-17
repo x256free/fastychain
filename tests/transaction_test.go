@@ -20,7 +20,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/x256free/fastychain/v1/params"
+	"github.com/x256free/fastychain/v4/params"
 )
 
 func TestTransaction(t *testing.T) {

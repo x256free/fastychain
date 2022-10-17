@@ -23,12 +23,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/x256free/fastychain/v1/accounts/abi/bind"
-	"github.com/x256free/fastychain/v1/accounts/abi/bind/backends"
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/core"
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/crypto"
+	"github.com/x256free/fastychain/v4/accounts/abi/bind"
+	"github.com/x256free/fastychain/v4/accounts/abi/bind/backends"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/core"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/crypto"
 )
 
 var testKey, _ = crypto.HexToECDSA("b71c71a67e1177ad4e901695e1b4b9ee17ae16c6668d313eac2f96dbcda3f291")

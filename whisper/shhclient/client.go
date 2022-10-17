@@ -19,10 +19,10 @@ package shhclient
 import (
 	"context"
 
-	"github.com/x256free/fastychain/v1"
-	"github.com/x256free/fastychain/v1/common/hexutil"
-	"github.com/x256free/fastychain/v1/rpc"
-	whisper "github.com/x256free/fastychain/v1/whisper/whisperv6"
+	"github.com/x256free/fastychain/v4"
+	"github.com/x256free/fastychain/v4/common/hexutil"
+	"github.com/x256free/fastychain/v4/rpc"
+	whisper "github.com/x256free/fastychain/v4/whisper/whisperv6"
 )
 
 // Client defines typed wrappers for the Whisper v5 RPC API.

@@ -22,8 +22,8 @@ import (
 	"io"
 	"net"
 
-	"github.com/x256free/fastychain/v1/crypto"
-	"github.com/x256free/fastychain/v1/rlp"
+	"github.com/x256free/fastychain/v4/crypto"
+	"github.com/x256free/fastychain/v4/rlp"
 )
 
 // Entry is implemented by known node record entry types.

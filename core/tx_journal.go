@@ -21,9 +21,9 @@ import (
 	"io"
 	"os"
 
-	"github.com/x256free/fastychain/v1/core/types"
-	"github.com/x256free/fastychain/v1/log"
-	"github.com/x256free/fastychain/v1/rlp"
+	"github.com/x256free/fastychain/v4/core/types"
+	"github.com/x256free/fastychain/v4/log"
+	"github.com/x256free/fastychain/v4/rlp"
 )
 
 // errNoActiveJournal is returned if a transaction is attempted to be inserted

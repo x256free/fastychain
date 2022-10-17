@@ -19,8 +19,8 @@ package trie
 import (
 	"fmt"
 
-	"github.com/x256free/fastychain/v1/common"
-	"github.com/x256free/fastychain/v1/log"
+	"github.com/x256free/fastychain/v4/common"
+	"github.com/x256free/fastychain/v4/log"
 )
 
 // SecureTrie wraps a trie with key hashing. In a secure trie, all
