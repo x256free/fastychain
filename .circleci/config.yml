@@ -1,7 +1,7 @@
 version: 4.0.0
 
 defaults: &defaults
-  working_directory: /home/circleci/go/src/github.com/fastychain/fastychain
+  working_directory: /home/circleci/go/src/github.com/x256free/fastychain
   docker:
     - image: cimg/go:1.18
   environment: # apparently expansion doesn't work here yet: https://discuss.circleci.com/t/environment-variable-expansion-in-working-directory/11322
@@ -124,12 +124,12 @@ jobs:
       - deploy:
           command: |
             echo $DOCKER_PASS | docker login -u $DOCKER_USER --password-stdin
-            docker build . -t fastychain/fastychain:${CIRCLE_BRANCH}
-            docker push fastychain/fastychain:${CIRCLE_BRANCH}
+            docker build . -t x256free/fastychain:${CIRCLE_BRANCH}
+            docker push x256free/fastychain:${CIRCLE_BRANCH}
             echo $GOOGLE_AUTH > ${HOME}/gcloud-service-key.json
             echo $GOOGLE_AUTH | docker login -u _json_key --password-stdin https://gcr.io
             ./tmp/google-cloud-sdk/bin/gcloud auth activate-service-account --key-file=${HOME}/gcloud-service-key.json
-            docker tag fastychain/fastychain:${CIRCLE_BRANCH} gcr.io/fastychain-core/fastychain:${CIRCLE_BRANCH}
+            docker tag x256free/fastychain:${CIRCLE_BRANCH} gcr.io/fastychain-core/fastychain:${CIRCLE_BRANCH}
             docker push gcr.io/fastychain-core/fastychain:${CIRCLE_BRANCH}
 
 workflows:

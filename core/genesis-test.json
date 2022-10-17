@@ -1,32 +1,30 @@
 {
   "config": {
-    "chainId": 31337,
+    "chainId": 4699,
     "homesteadBlock": 0,
     "eip150Block": 0,
     "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "eip155Block": 0,
     "eip158Block": 0,
     "byzantiumBlock": 0,
-    "constantinopleBlock": 4081350,
-    "darvazaBlock": 16811000,
+    "constantinopleBlock": 0,
+    "darvazaBlock": 0,
     "darvazaDefaultGas": 2000000000000,
-    "hafthorBlock": 22400000,
-    "hafthorStakeAddress": "0x2fe70f1df222c85ad6dd24a3376eb5ac32136978",
+    "hafthorBlock": 0,
+    "hafthorStakeAddress": "0xDEFdD49E1b8FBE2588912aE03E022713fE3e0b8b",
     "clique": {
       "period": 5,
       "epoch": 3000
     }
   },
   "nonce": "0x0",
-  "timestamp": "0x5af5a5c8",
+  "timestamp": "0x0",
   "extraData": "0x0000000000000000000000000000000000000000000000000000000000000000",
   "signers": [
-    "0x7aeceb5d345a01f8014a4320ab1f3d467c0c086a",
-    "0xdd7e460302a911f9162a208370cdcdc37b892453",
-    "0x10a8a552c8a8945f32f6fded5e44d9101b3491d8"
+  "0xDEFdD49E1b8FBE2588912aE03E022713fE3e0b8b"
   ],
   "voters": [
-    "0x7aeceb5d345a01f8014a4320ab1f3d467c0c086a"
+  "0xDEFdD49E1b8FBE2588912aE03E022713fE3e0b8b"
   ],
   "signer": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
   "gasLimit": "0xc88afa0",
@@ -34,9 +32,6 @@
   "mixHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
   "coinbase": "0x0000000000000000000000000000000000000000",
   "alloc": {
-    "2fe70f1df222c85ad6dd24a3376eb5ac32136978": {
-      "balance": "0x33b2e3c9fd0803ce8000000"
-    }
   },
   "number": "0x0",
   "gasUsed": "0x0",

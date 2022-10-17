@@ -29,8 +29,8 @@ var (
 )
 
 const (
-	MainnetChainID = 60
-	TestnetChainID = 31337
+	MainnetChainID = 4699
+	TestnetChainID = 46694
 )
 
 var (
@@ -43,11 +43,11 @@ var (
 		EIP155Block:         big.NewInt(0),
 		EIP158Block:         big.NewInt(0),
 		ByzantiumBlock:      big.NewInt(0),
-		ConstantinopleBlock: big.NewInt(5_100_000),
+		ConstantinopleBlock: big.NewInt(0),
 		PetersburgBlock:     nil,
-		DarvazaBlock:        big.NewInt(17_900_000),
+		DarvazaBlock:        big.NewInt(0),
 		DarvazaDefaultGas:   new(big.Int).SetUint64(2_000 * Shannon),
-		HafthorBlock:        big.NewInt(23_817_200), // 2022-02-23
+		HafthorBlock:        big.NewInt(0), 
 		HafthorStakeAddress: common.HexToAddress("0x4281Cabd60bB91A6A8B0C60842440669DEA3F541"),
 
 		Clique: DefaultCliqueConfig(),
@@ -62,11 +62,11 @@ var (
 		EIP155Block:         big.NewInt(0),
 		EIP158Block:         big.NewInt(0),
 		ByzantiumBlock:      big.NewInt(0),
-		ConstantinopleBlock: big.NewInt(4_081_350),
+		ConstantinopleBlock: big.NewInt(0),
 		PetersburgBlock:     nil,
-		DarvazaBlock:        big.NewInt(16_811_000),
+		DarvazaBlock:        big.NewInt(0),
 		DarvazaDefaultGas:   new(big.Int).SetUint64(2_000 * Shannon),
-		HafthorBlock:        big.NewInt(22_400_000),                                            // 2022-01-15
+		HafthorBlock:        big.NewInt(0),                                            
 		HafthorStakeAddress: common.HexToAddress("0x2fe70f1df222c85ad6dd24a3376eb5ac32136978"), // recycle to genesis alloc
 
 		Clique: DefaultCliqueConfig(),

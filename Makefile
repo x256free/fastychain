@@ -32,7 +32,7 @@ bootnode:
 	@echo "Run \"bin/fastychain-bootnode\" to launch fastychain."
 
 docker:
-	docker build -t fastychain/fastychain .
+	docker build -t x256free/fastychain .
 
 all: bootnode fastychain
 

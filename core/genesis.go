@@ -349,10 +349,6 @@ func DefaultGenesisBlock() *Genesis {
 
 // DefaultTestnetGenesisBlock returns the Testnet network genesis block.
 func DefaultTestnetGenesisBlock() *Genesis {
-	alloc, ok := new(big.Int).SetString("1000000000000000000000000000", 10)
-	if !ok {
-		panic("failed to parse big.Int string")
-	}
 	return &Genesis{
 		Config:     params.TestnetChainConfig,
 		Timestamp:  0,
