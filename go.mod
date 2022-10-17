@@ -1,6 +1,6 @@
 module github.com/x256free/fastychain/v1
 
-go 1.18
+go 1.16
 
 require (
 	contrib.go.opencensus.io/exporter/stackdriver v0.6.0
