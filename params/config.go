@@ -47,8 +47,6 @@ var (
 		PetersburgBlock:     nil,
 		DarvazaBlock:        big.NewInt(0),
 		DarvazaDefaultGas:   new(big.Int).SetUint64(2_000 * Shannon),
-		HafthorBlock:        big.NewInt(0), 
-		HafthorStakeAddress: common.HexToAddress("0x4281Cabd60bB91A6A8B0C60842440669DEA3F541"),
 
 		Clique: DefaultCliqueConfig(),
 	}
@@ -66,8 +64,6 @@ var (
 		PetersburgBlock:     nil,
 		DarvazaBlock:        big.NewInt(0),
 		DarvazaDefaultGas:   new(big.Int).SetUint64(2_000 * Shannon),
-		HafthorBlock:        big.NewInt(0),                                            
-		HafthorStakeAddress: common.HexToAddress("0x2fe70f1df222c85ad6dd24a3376eb5ac32136978"), // recycle to genesis alloc
 
 		Clique: DefaultCliqueConfig(),
 	}
